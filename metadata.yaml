@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3767
     wikipedia: http://en.wikipedia.org/wiki/John_Morley,_1st_Viscount_Morley_of_Blackburn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19410#Critical-Miscellanies--Vol.-3-of-3-Essay-8--France-in-the-Eighteenth-Century
 gutenberg_issued: '2006-09-30'
 gutenberg_type: Text
 identifiers:
